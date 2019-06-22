@@ -32,4 +32,5 @@ functions = {
 	"min": lambda x, y: min(x, y),
 	"log": lambda x, base: math.log(x, base),
 	"ln": lambda x: math.log(x),
+	"floor": lambda x: math.floor(x),
 }
